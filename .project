@@ -14,10 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<variableList>
-		<variable>
-			<name>Images</name>
-			<value>file:/C:/Users/XCS/workspace/solitaire/src/images</value>
-		</variable>
-	</variableList>
 </projectDescription>
